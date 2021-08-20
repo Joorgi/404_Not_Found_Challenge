@@ -59,5 +59,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@joorgi](https://{github.com/joorgi})
-- Twitter [@XxToxicxX25](https://{twitter.com/XxToxicxX25})
+- GitHub [Joorgi](https://github.com/Joorgi)
+- Twitter [@XxToxicxX25](https://twitter.com/XxToxicxX25)
